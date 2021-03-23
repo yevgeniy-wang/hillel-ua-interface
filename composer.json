@@ -1,0 +1,8 @@
+{
+  "name": "yevgeniy/uainterface",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\UserAgentInterface\\": "./src"
+    }
+  }
+}
